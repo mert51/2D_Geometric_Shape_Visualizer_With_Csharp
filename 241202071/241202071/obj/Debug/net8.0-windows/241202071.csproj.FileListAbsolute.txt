@@ -1,0 +1,16 @@
+C:\Users\merto\source\repos\241202071\241202071\bin\Debug\net8.0-windows\241202071.exe
+C:\Users\merto\source\repos\241202071\241202071\bin\Debug\net8.0-windows\241202071.deps.json
+C:\Users\merto\source\repos\241202071\241202071\bin\Debug\net8.0-windows\241202071.runtimeconfig.json
+C:\Users\merto\source\repos\241202071\241202071\bin\Debug\net8.0-windows\241202071.dll
+C:\Users\merto\source\repos\241202071\241202071\bin\Debug\net8.0-windows\241202071.pdb
+C:\Users\merto\source\repos\241202071\241202071\obj\Debug\net8.0-windows\_241202071.Form1.resources
+C:\Users\merto\source\repos\241202071\241202071\obj\Debug\net8.0-windows\241202071.csproj.GenerateResource.cache
+C:\Users\merto\source\repos\241202071\241202071\obj\Debug\net8.0-windows\241202071.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merto\source\repos\241202071\241202071\obj\Debug\net8.0-windows\241202071.AssemblyInfoInputs.cache
+C:\Users\merto\source\repos\241202071\241202071\obj\Debug\net8.0-windows\241202071.AssemblyInfo.cs
+C:\Users\merto\source\repos\241202071\241202071\obj\Debug\net8.0-windows\241202071.csproj.CoreCompileInputs.cache
+C:\Users\merto\source\repos\241202071\241202071\obj\Debug\net8.0-windows\241202071.dll
+C:\Users\merto\source\repos\241202071\241202071\obj\Debug\net8.0-windows\refint\241202071.dll
+C:\Users\merto\source\repos\241202071\241202071\obj\Debug\net8.0-windows\241202071.pdb
+C:\Users\merto\source\repos\241202071\241202071\obj\Debug\net8.0-windows\241202071.genruntimeconfig.cache
+C:\Users\merto\source\repos\241202071\241202071\obj\Debug\net8.0-windows\ref\241202071.dll
